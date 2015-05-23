@@ -1,2 +1,2 @@
 # Curryboard
-Noodle board complement with LIN communication interface
+[Noodle board](https://github.com/javifercep/Noodleboard) complement with LIN communication interface
